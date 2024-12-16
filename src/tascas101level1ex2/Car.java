@@ -1,4 +1,4 @@
-package tascas101level1;
+package tascas101level1ex2;
 
 public class Car {
 	

@@ -1,4 +1,4 @@
-package tascas101level3;
+package tascas101level3ex1;
 
 public class FootballNews extends News {
 	private String competition;

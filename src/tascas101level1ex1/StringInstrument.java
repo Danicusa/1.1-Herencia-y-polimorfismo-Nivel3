@@ -1,4 +1,4 @@
-package tascas101level1;
+package tascas101level1ex1;
 
 public class StringInstrument extends Instrument {
 static String claseCargada = "Class StringInstrument loaded";
